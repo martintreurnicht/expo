@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import * as React from 'react';
-import { View, ViewProps, ViewPropTypes } from 'react-native';
+import { View, ViewPropTypes } from 'react-native';
 
 type Props = {
   tint: BlurTint,
